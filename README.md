@@ -5,16 +5,9 @@
 The instructor's name is Scott Dossey
 
 ## Students
-
- HEAD
- 
-* Test student 1
 * Ploynapas Masi
-
-HEAD
-
-- Test student 1
-
+* comlan djelou
 * cj Hester
-
 * Eddie Easton
+ 
+
